@@ -2,6 +2,8 @@ Example-Documentation
 =====================
 ![screenshot](screenshot.png)  
 
+![](images/example.png)  
+
 ##Abstract:  
 ![](demo.gif)  
 This is my example project. It does not contain anything important. Just an example. You can clone me and build up on it.  
